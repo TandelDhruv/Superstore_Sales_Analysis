@@ -10,7 +10,9 @@
 ### EDA using Pandas and for Visualization I used Matplotlib and Seaborn.
 
 To answer these questions I used many different pandas, matplotlib and seaborn library methods. They include:
+- Used info() to get information about columns data and datatype
+- Used isnull() to check null value
 - Adding columns
-- Using the .apply() method
+- Using the .sort_values() method to sort data
 - Using groupby to perform aggregate analysis
-- Plotting bar charts, lines graphs and countplot to visualize our results
+- Plotting lines graphs and countplot to visualize our results
